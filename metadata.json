@@ -1,0 +1,8 @@
+{
+  "name": "Brutal Match",
+  "description": "A futuristic high-performance fighter matchmaking platform featuring AI-driven combat pairing, underground aesthetics, and automated fight scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
